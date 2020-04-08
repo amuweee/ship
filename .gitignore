@@ -15,7 +15,7 @@ Downloads
 .gimp-2.8
 #.gitignore
 .gtkrc-2.0
-.i3
+#.i3
 .icons
 .local
 .makepkg.conf
